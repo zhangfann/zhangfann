@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhangfann
-- 👀 I’m interested in Storage, Database, Network and Machine Learning
+- 👀 I’m interested in Storage, Database and Network
 - 🌱 I’m currently working on Network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : zhangfandlut@qq.com
